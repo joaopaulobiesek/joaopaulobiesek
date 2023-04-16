@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
-## Analista de sistemas | Developer in NTT DATA for Bank Itau | Developer in WIESOO
+## Analista de sistemas | Developer in NTT DATA for Bank Itau
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Minhas Stacks
